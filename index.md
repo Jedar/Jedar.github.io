@@ -69,7 +69,7 @@
 - [ ] 生成式
   - [ ] 工厂模式
   - [ ] 抽象工厂模式
-  - [ ] [单例模式](https://jedar.github.io/design_pattern/singleton.md)
+  - [ ] [单例模式](./design_pattern/singleton.html)
 - [ ] 应用式
   - [ ] 观察者模式
   - [ ] 适配器模式
